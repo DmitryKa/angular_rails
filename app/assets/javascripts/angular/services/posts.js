@@ -1,6 +1,5 @@
 App.factory('posts', [function(){
-  var o = {
+  return {
     posts: []
   };
-  return o;
 }]);
