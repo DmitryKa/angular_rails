@@ -11,4 +11,5 @@
 // about supported directives.
 //
 //= require app
+//= require angular-rails-templates
 //= require_tree .
